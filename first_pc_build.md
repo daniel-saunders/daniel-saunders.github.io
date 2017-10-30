@@ -15,15 +15,21 @@ For the PC itself (not including extremeties like screens etc), I've set a budge
 Where possible, to save some cash, I'm happy to buy second hand. Some quick searches suggests that CEX is just as competitive as ebay, whilst giving a one year warrenty. The CEX website is also surprisingly complete when it comes to component listings. For this machines first iteration, this first set of components will include:
 
 * CPU
+    * i3 6100 from [CEX](https://uk.webuy.com/product.php?sku=SCPUINTI36100TA#.Wfeq8xO0OwA), £65
+    * I'm slightly more familiar with Intel than AMD, so this build will be Intel 1151. Replacing the CPU is a potential upgrade, but is a bit wasteful. Looking at online benchmarks, this is more than capable for what I want. 
 
 * Motherboard
     * [ASROCK B250M](https://www.amazon.co.uk/gp/product/B01N0LMLMM/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1#Ask), about £71 on Amazon
-    * Decieding features: healthy number of ram & PSI ports, less limited chipset compared to cheaper alternatives.
+    * Deciding features: healthy number of ram & PSI ports, less limited chipset compared to cheaper alternatives.
     * Looking on logical increments, this is actaully a bit more pricey than the other components listed here. This is because upgrading the motherboard at a later date is such a pain. I changed my mind a few times about this, and on two occasions went up two models on LI for extra option. I also don't care much for overclocking.
     * Am still thinking of this cheaper option...
 
 * PSU
 
-* RAM: 
+* RAM
     * DDR4 4GB, £20 from [CEX](https://uk.webuy.com/product.php?sku=SMEM4G2400#.WfejHhO0OwA)
     * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that, I know that 4GB is perfectly sufficient for this first iteration. Since RAM cost is pretty linear with capacity, this will be one of the first things to upgrade. 
+    
+* Case
+    * 
+    * Cheap as chips, with a nice window on the side.
