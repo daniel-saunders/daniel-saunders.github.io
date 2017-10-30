@@ -1,1 +1,5 @@
+name: Christmas Recipes
+markdown: redcarpet
+pygments: true
+baseurl: /christmas-recipes
 theme: jekyll-theme-slate
