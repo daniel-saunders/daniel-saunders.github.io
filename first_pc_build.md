@@ -31,5 +31,9 @@ Where possible, to save some cash, I'm happy to buy second hand. Some quick sear
     * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that, I know that 4GB is perfectly sufficient for this first iteration. Since RAM cost is pretty linear with capacity, this will be one of the first things to upgrade. 
     
 * Case
-    * 
+    * [CiT Dark Star](https://www.amazon.co.uk/gp/product/B01MSE3M3W/ref=ox_sc_act_title_5?smid=A3P5ROKL5A1OLE&psc=1), £25
     * Cheap as chips, with a nice window on the side.
+    
+* Hard-drive
+    * 128 GB Sata3, £45 from [CEX](https://uk.webuy.com/product.php?sku=SSSDKINGV300128#.WfeyPzZaGOA)
+    * I like SSD, and don't use much space (can always add more, like ram).
