@@ -15,4 +15,4 @@ As a demonstration, we'll randomly generate some events for the two categories b
 
 Lets first look at the data generated:
 
-[](tutorials/ML_variable_eff/2ddist.png)
+![](tutorials/ML_variable_eff/2ddist.png)
