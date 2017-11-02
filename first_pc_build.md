@@ -8,7 +8,10 @@ I've decided the time has come to build my first PC by myself. This will ultimat
 
 After googling through many articles, I found www.logicalincrements.com to be an extremely useful starting point, giving many pre-planned build recommendations, giving a good indication of what to expect for your money.
 
-For the PC itself (not including extremeties like screens etc), I've set a budget of £200 (w/o GPU, to begin with). As a beginner, who doesn't need intensive computing at home, this should be enough to get something decent running, and allow for some fun upgrades in the future to make it more competitive. 
+For the PC itself (not including extremeties like screens etc), I've set a budget of £250 (w/o GPU, to begin with). As a beginner, who doesn't need intensive computing at home, this should be enough to get something decent running, and allow for some fun upgrades in the future to make it more competitive. 
+
+## OS
+Linux, obvs. Part of the fun using this machine will be trying out various distros, so light weight isn't guarenteed (but is likely). 
 
 ## Components
 
