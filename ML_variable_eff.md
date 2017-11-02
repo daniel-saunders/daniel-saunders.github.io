@@ -20,3 +20,12 @@ Lets first look at the data generated:
 We're interested in the shapes of each distribution in ```x``` specifically - the next figure shows the histograms for the two populations (not stacked), with the PDFs of the functions that were originally sampled overlaid (scaled the area of the histograms - nb these wern't fitted, since we know all the parameters a priori). 
 
 ![](tutorials/ML_variable_eff/xs.png)
+
+Of course, when we do the experiment in the real world, we see something quite different, since we don't have the category labels. The full 2D data we get:
+
+![](tutorials/ML_variable_eff/2ddist_nolabels.png)
+
+And the 1D projection in ```x```:
+
+![](tutorials/ML_variable_eff/xs_nolabels.png)
+
