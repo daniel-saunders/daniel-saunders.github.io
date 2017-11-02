@@ -16,3 +16,7 @@ As a demonstration, we'll randomly generate some events for the two categories b
 Lets first look at the data generated:
 
 ![](tutorials/ML_variable_eff/2ddist.png)
+
+We're interested in the shapes of each distribution in ```x``` specifically - the next figure shows the histograms for the two populations (not stacked), with the PDFs of the functions that were originally sampled overlaid (scaled the area of the histograms - nb these wern't fitted, since we know all the parameters a priori). 
+
+![](tutorials/ML_variable_eff/xs.png)
