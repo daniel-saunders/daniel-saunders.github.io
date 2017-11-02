@@ -1,4 +1,4 @@
-# Introduction
+# Introduction !!! Change to only meausre rate (and bugger shape info for now). 
 This article gives some examples of how using machine learning can affect the output of some stastical measurements. If unaccounted for, the use of ML algorithms may bias certain analysis, resulting in an apparently more precise measurement that is infact far away from the true result. The examples used are general, although inspired by cases found in High Energy Physics (e.g. particle classification). We'll use python and sklearn, although these affects are true for any ML in any language. The code snippets below all form one script, which can be found in the same repo as these pages (link above).
 
 # Setting the scene
