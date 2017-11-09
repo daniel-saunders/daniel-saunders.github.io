@@ -8,7 +8,7 @@ I've decided the time has come to build my first PC by myself. This will ultimat
 
 After googling through many articles, I found www.logicalincrements.com to be an extremely useful starting point, giving many pre-planned build recommendations, giving a good indication of what to expect for your money.
 
-For the PC itself (not including extremeties like screens etc), I've set a budget of £250 (w/o GPU, to begin with). As a beginner, who doesn't need intensive computing at home, this should be enough to get something decent running, and allow for some fun upgrades in the future to make it more competitive. 
+For the PC itself (not including extremeties like screens etc), I originally wanted to keep the cost low. But, I quickly realised going cheap can have serious impacts on future proofing and potential future upgrades. I'd like to keep below £400. 
 
 ## OS
 Linux, obvs. Part of the fun using this machine will be trying out various distros, so light weight isn't guarenteed (but is likely). 
@@ -29,6 +29,8 @@ Where possible, to save some cash, I'm happy to buy second hand. Some quick sear
 
 * PSU
 
+* Processor fan
+
 * RAM
     * DDR4 4GB, £20 from [CEX](https://uk.webuy.com/product.php?sku=SMEM4G2400#.WfejHhO0OwA)
     * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that, I know that 4GB is perfectly sufficient for this first iteration. Since RAM cost is pretty linear with capacity, this will be one of the first things to upgrade. 
@@ -38,5 +40,5 @@ Where possible, to save some cash, I'm happy to buy second hand. Some quick sear
     * Cheap as chips, with a nice window on the side.
     
 * Hard-drive
-    * 128 GB Sata3, £45 from [CEX](https://uk.webuy.com/product.php?sku=SSSDKINGV300128#.WfeyPzZaGOA)
+    * 256 GB Sata3, £75 from [CEX](https://uk.webuy.com/product.php?sku=SSSDKINGV300128#.WfeyPzZaGOA)
     * I like SSD, and don't use much space (can always add more, like ram).
