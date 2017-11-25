@@ -22,23 +22,22 @@ Where possible, to save some cash, I'm happy to buy second hand. Some quick sear
     * I'm slightly more familiar with Intel than AMD, so this build will be Intel 1151. Replacing the CPU is a potential upgrade, but is a bit wasteful. Looking at online benchmarks, this is more than capable for what I want. 
 
 * Motherboard
-    * [ASROCK B250M](https://www.amazon.co.uk/gp/product/B01N0LMLMM/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1#Ask), about £71 on Amazon
+    * [ASROCK B250M](https://www.amazon.co.uk/gp/product/B01N0LMLMM/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1#Ask), about £71 on Amazon (but i got a bargain at £50). 
     * Deciding features: healthy number of ram & PSI ports, less limited chipset compared to cheaper alternatives.
     * Looking on logical increments, this is actaully a bit more pricey than the other components listed here. This is because upgrading the motherboard at a later date is such a pain. I changed my mind a few times about this, and on two occasions went up two models on LI for extra option. I also don't care much for overclocking.
-    * Am still thinking of this cheaper option...
 
 * PSU
 
 * Processor fan
 
 * RAM
-    * DDR4 4GB, £20 from [CEX](https://uk.webuy.com/product.php?sku=SMEM4G2400#.WfejHhO0OwA)
-    * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that, I know that 4GB is perfectly sufficient for this first iteration. Since RAM cost is pretty linear with capacity, this will be one of the first things to upgrade. 
+    * DDR4 8GB
+    * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that. That said, 4 GB is low given the rest of this build, so 8 GB tis. 
     
 * Case
-    * [CiT Dark Star](https://www.amazon.co.uk/gp/product/B01MSE3M3W/ref=ox_sc_act_title_5?smid=A3P5ROKL5A1OLE&psc=1), £25
+    * [CiT Dark Soul], £35 from amazon.
     * Cheap as chips, with a nice window on the side.
     
 * Hard-drive
-    * 256 GB Sata3, £75 from [CEX](https://uk.webuy.com/product.php?sku=SSSDKINGV300128#.WfeyPzZaGOA)
-    * I like SSD, and don't use much space (can always add more, like ram).
+    * 256 GB Samsung m.2, £116 from [Amazon](https://www.amazon.co.uk/gp/product/B01MSE30WA/ref=ox_sc_sfl_title_3?ie=UTF8&smid=A3P5ROKL5A1OLE&th=1)
+    * This thing should be a beast! 
