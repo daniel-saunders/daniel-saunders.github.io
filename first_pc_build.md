@@ -18,8 +18,8 @@ Linux, obvs. Part of the fun using this machine will be trying out various distr
 Where possible, to save some cash, I'm happy to buy second hand. Some quick searches suggests that CEX is just as competitive as ebay, whilst giving a one year warrenty. The CEX website is also surprisingly complete when it comes to component listings. For this machines first iteration, this first set of components will include:
 
 * CPU
-    * i3 6100 from [CEX](https://uk.webuy.com/product.php?sku=SCPUINTI36100TA#.Wfeq8xO0OwA), £65
-    * I'm slightly more familiar with Intel than AMD, so this build will be Intel 1151. Replacing the CPU is a potential upgrade, but is a bit wasteful. Looking at online benchmarks, this is more than capable for what I want. 
+    * G4560 from Amazon, £69
+    * I'm slightly more familiar with Intel than AMD, so this build will be Intel 1151. I searched a lot for CPU (+cooler), and the G4560 gives incredible value and can compete with the i3 no sweat.  
 
 * Motherboard
     * [ASROCK B250M](https://www.amazon.co.uk/gp/product/B01N0LMLMM/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1#Ask), about £71 on Amazon (but i got a bargain at £50). 
