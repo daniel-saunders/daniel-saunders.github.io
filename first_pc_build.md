@@ -14,17 +14,20 @@ For the PC itself (not including extremeties like screens etc), I originally wan
 Linux, obvs. Part of the fun using this machine will be trying out various distros, so light weight isn't guarenteed (but is likely). 
 
 ## Components
-Summary table of current status.
-| Component | Choice | Cost (inc. delivery) |
-| -- | -- | -- |
-| Motherboard | [ASROCK B250 Pro](https://www.amazon.co.uk/ASROCK-B250M-PRO4-Elegant-Motherboard/dp/B01N0LMLMM/ref=sr_1_1?s=computers&ie=UTF8&qid=1511738958&sr=1-1&keywords=asrock+b250+pro4) | £48 |
-| RAM | 4 GB single stick DDR4 2400 MHz (x2 eventually, not yet) | £30 |
-| Harddrive | [Samsung EVO NVMe 256 GB](https://www.amazon.co.uk/Samsung-M-2-2280-500GB-Express-Solid/dp/B01M211K53/?tag=logicaincre05-21&th=1) | £116 |
-| CPU | [G4560  (with cooler)](http://cpu.userbenchmark.com/Compare/Intel-Pentium-G4560-vs-Intel-Core-i3-6100/3892vs3511) | £58 |
-| Tower | [CiT Dark Soul](https://www.amazon.co.uk/dp/B01MSE30WA/ref=twister_B074G83KSZ?_encoding=UTF8&psc=1) | £35 |
-| PSU | TBC | - |
-| GPU | TBC | - |
+Summary of current choices:
 
+* Motherboard £48
+    [ASROCK B250 Pro](https://www.amazon.co.uk/ASROCK-B250M-PRO4-Elegant-Motherboard/dp/B01N0LMLMM/ref=sr_1_1?s=computers&ie=UTF8&qid=1511738958&sr=1-1&keywords=asrock+b250+pro4)
+* RAM £30 (2nd hand, cex)
+    * 4 GB single stick DDR4 2400 MHz (x2 eventually, not yet)
+* Harddrive £116 
+    * [Samsung EVO NVMe 256 GB](https://www.amazon.co.uk/Samsung-M-2-2280-500GB-Express-Solid/dp/B01M211K53/?tag=logicaincre05-21&th=1)
+* CPU £58 (2nd hand, ebay)
+    * [G4560  (with cooler)](http://cpu.userbenchmark.com/Compare/Intel-Pentium-G4560-vs-Intel-Core-i3-6100/3892vs3511)
+* Tower case
+    * [CiT Dark Soul](https://www.amazon.co.uk/dp/B01MSE30WA/ref=twister_B074G83KSZ?_encoding=UTF8&psc=1)
+
+PSU and GPU TBC.
 Current total spend: £287 (so expect about £350, not inc GPU).
 
 Where possible, to save some cash, I'm happy to buy second hand. Some quick searches suggests that CEX is just as competitive as ebay, whilst giving a one year warrenty. The CEX website is also surprisingly complete when it comes to component listings. For this machines first iteration, this first set of components will include:
