@@ -32,12 +32,11 @@ Where possible, to save some cash, I'm happy to buy second hand. Some quick sear
 
 * RAM
     * DDR4 8GB
-    * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that. That said, 4 GB is low given the rest of this build, so 8 GB tis. 
+    * I'm pretty good at monitoring my RAM usage. My work machine boasts 16GB, and I do feel sorry for 14G of those bytes, which simply don't do much the majority of the time. Sure, they help a bit, but knowing my two other laptops run wonderfully with 1/4 of that. To begin with 4 GB is fine, and we'll see if its the bottle neck.
     
 * Case
     * [CiT Dark Soul], £35 from amazon.
     * Cheap as chips, with a nice window on the side.
     
 * Hard-drive
-    * 256 GB Samsung m.2, £116 from [Amazon](https://www.amazon.co.uk/gp/product/B01MSE30WA/ref=ox_sc_sfl_title_3?ie=UTF8&smid=A3P5ROKL5A1OLE&th=1)
-    * This thing should be a beast! 
+    * 256 GB Samsung Evo, £80 on [Amazon](https://www.amazon.co.uk/Samsung-inch-Solid-State-Drive/dp/B00P736UEU/?tag=logicaincre05-21), quite incredible reviews. 
