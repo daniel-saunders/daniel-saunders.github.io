@@ -20,5 +20,5 @@ Below are a set of links to articles that document various projects (work, teach
 
 ## Miscellaneous 
 * [upBrowser - a matplotlib visualiser for serialised plots](upBrowser.md)
-* [Linkedin](www.linkedin.com/in/dan-saunders1)
+* [Linkedin](https://www.linkedin.com/in/dan-saunders1)
 * [CV](https://docs.google.com/presentation/d/1DKIxbgXLdX_WUn52feFf18cfIm6UupInGGKTr4SV7FA/edit?usp=sharing)
