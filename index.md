@@ -4,7 +4,9 @@ title: Hello World
 ---
 
 # Articles
-Welcome! Below are a set of links to articles that document various projects (work, teaching, or on the side). 
+Welcome! 
+
+Below are a set of links to articles that document various projects (work, teaching, or on the side). 
 
 ## Budget computing
 
