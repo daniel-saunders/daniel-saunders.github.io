@@ -16,3 +16,7 @@ Below are a set of links to articles that document various projects (work, teach
 
 ## Machine learning (teaching tutorials)
 * [Jan 2018: Efficiency of ML Variables](ML_variable_eff.md)
+
+## Miscellaneous 
+* [Linkedin]
+* [CV - Jan 2019]
