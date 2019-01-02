@@ -14,7 +14,7 @@ Below are a set of links to articles that document various projects (work, teach
 * [Sep 2018: The perfect travel laptop for £60 pounds - chromebook + galliumos](chromebook.md)
 * [Dec 2017 (updated Jan 2019): First PC build](first_pc_build.md)
 
-## Machine learning (teaching tutorials)
+## Machine learning
 * [Jan 2019: GPUs vs CPUs for ML - do you really need an expensive GPU?](gpu_vs_cpu.md)
 * [Jan 2018: ML variable bias](ML_variable_eff.md)
 
