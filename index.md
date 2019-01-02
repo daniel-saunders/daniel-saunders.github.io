@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-# Articles
-Welcome! 
+# Talks (conferences, lectures, seminars etc).
+These are links to recordings and slides of various talks and short courses. 
 
+# Articles
 Below are a set of links to articles that document various projects (work, teaching, or on the side).
 
 ## Budget computing
