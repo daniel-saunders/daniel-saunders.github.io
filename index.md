@@ -2,12 +2,9 @@
 layout: default
 title: Home
 ---
-
-# Talks (conferences, lectures, seminars etc).
-These are links to recordings and slides of various talks and short courses. 
+Welcome! These pages link together various articles that document side projects (including some dedicated to teaching), as well as links to talks i've presented in the past. 
 
 # Articles
-Below are a set of links to articles that document various projects (work, teaching, or on the side).
 
 ## Budget computing
 
@@ -23,3 +20,6 @@ Below are a set of links to articles that document various projects (work, teach
 * [upBrowser - a matplotlib visualiser for serialised plots](upBrowser.md)
 * [Linkedin](https://www.linkedin.com/in/dan-saunders1)
 * [CV](https://docs.google.com/presentation/d/1DKIxbgXLdX_WUn52feFf18cfIm6UupInGGKTr4SV7FA/edit?usp=sharing)
+
+# Talks (conferences, lectures, seminars etc).
+These are links to recordings and slides of various talks and short courses. 
