@@ -23,3 +23,8 @@ Welcome! These pages link together various articles that document side projects 
 
 # Talks (conferences, lectures, seminars etc)
 These are links to recordings and slides of various talks and short courses I've given. 
+
+* [Introduction to HEP Data Acquisition principles]() - Imperial College postgraduate short course
+* [SoLid Seminar](https://docs.google.com/presentation/d/1tlrCHkvQ7dmh4VeXptU74msMW5f7Nsg-cDJwPxF1fFY/edit?usp=sharing) - this presentation gets updated a few times a year for each seminar given
+* [Imperial College Undergraduate Statistics Guest Lecture](https://docs.google.com/presentation/d/15a8Mkx4_-7MpbTkr19Lzwt1GvY1E_9tTFbj0JF_gars/edit?usp=sharing)
+* [Event Reconstruction in Modern Particle Physics (recordings)](https://cds.cern.ch/record/2135810?ln=en) - CERN postgraduate lectures for the inverted CERN School of Computing 
