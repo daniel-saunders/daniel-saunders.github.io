@@ -4,15 +4,16 @@ title: Chromebook
 ---
 
 # An all-round travel laptop for £60 pounds - Chromebook + galliumos
+### July 2017
 
 ## Introduction
 How cheap can a laptop be whilst still offering all the required functionality for a developer? I asked this question just after finishing my PhD, when I realised I wanted a cheap laptop for home and travel (to avoid taking my expensive work laptop that's perfectly setup for my research). The requirements I had in mind:
 
-* Suitable for web browsing
-* Ability to login to external machines (inc. showing external graphics)
-* Manage emails
-* Enough resources for light development (trying out ideas on the go)
-* Light-weight gaming
+* Suitable for web browsing.
+* Ability to login to external machines (inc. showing external graphics).
+* Manage emails.
+* Enough resources for light development (trying out ideas on the go).
+* Light-weight gaming.
 
 It turns out this can be achieved for very little indeed! 
 Since we'll be using an open source OS (to avoid buying a windows licence, and to choose something more lightweight), this is the perfect choice for someone wanting a cheap introduction to running linux.
@@ -44,7 +45,7 @@ There are a few different [ways to run Linux on a chromebook](https://arstechnic
 The usual disclaimer applies when running linux: there will be some *small* pain in getting things to work initially. 
 
 
-## Experiance
+## Experience
 My mind is blown...
 
 I could spend all my time using this laptop and be just as content and productive. It can do everything i'd hoped for and more. Compared to my work ultrabook, there are only a handful of cases where i notice a difference:
@@ -58,5 +59,4 @@ Everything else is awesome. The battery life is very impressive given the low sp
 ## Conclusion
 All the requirements I set out were fulfilled and beyond for just £60. Chromebooks offer amazing productivity per pound of hardware, and a bargain on eBay, where they're plentifully. GalliumOS is very impressive in terms of documentation and compatibility, offering a familiar feel for developers. This is also an excellent option for those wanting a cheap way to try out linux as an OS.
 
-Before this experiment, I'd planned on selling my Chromebook on, but now i think i'll construct a plinth for it. Ironically, its value to me now far exceeds £60... 
-
+Before this experiment, I'd planned on selling my Chromebook on after these trials, but now i think i'll construct a plinth for it. Ironically, its value to me now far exceeds £60... 
