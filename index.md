@@ -8,7 +8,8 @@ Welcome! These pages link together various articles that document side projects 
 
 ## Budget computing
 
-* [Oct 2018: A £120 laptop for work and play - revived ultrabook](revived_ultrabook.md)
+* [Jan 2019: When do (and when don't) you need an expensive CPU?](bargain_cpus.md)
+* [Oct 2018: A £140 laptop for work and play - revived ultrabook](revived_ultrabook.md)
 * [Sep 2018: An all-round travel laptop for £60 pounds - Chromebook + galliumos](chromebook.md)
 * [Dec 2017 (updated Jan 2019): First PC build](first_pc_build.md)
 
