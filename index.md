@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-Welcome! These pages link together various articles that document side projects (including some dedicated to teaching), as well as links to talks I've presented in the past. 
+Welcome! 
+
+These pages link together various articles that document side projects (including some dedicated to teaching), as well as links to talks I've presented in the past. 
 
 # Articles
 
@@ -25,7 +27,16 @@ Welcome! These pages link together various articles that document side projects 
 # Talks (conferences, lectures, seminars etc)
 These are links to recordings and slides of various talks and short courses I've given. 
 
-* [Introduction to HEP Data Acquisition principles]() - Imperial College postgraduate short course
-* [SoLid Seminar](https://docs.google.com/presentation/d/1tlrCHkvQ7dmh4VeXptU74msMW5f7Nsg-cDJwPxF1fFY/edit?usp=sharing) - this presentation gets updated a few times a year for each seminar given
+## Conference Talks
+* IEEE NSS-MIC 2018, Sydney, parallel session: [SoLid Readout System Deployment](https://docs.google.com/presentation/d/1qcqOHY9K6Ar2kKZ57ezKluTK-WNwd6h4w7HuhNr2ueQ/edit?usp=sharing)
+
+
+## Lectures
 * [Imperial College Undergraduate Statistics Guest Lecture](https://docs.google.com/presentation/d/15a8Mkx4_-7MpbTkr19Lzwt1GvY1E_9tTFbj0JF_gars/edit?usp=sharing)
 * [Event Reconstruction in Modern Particle Physics (recordings)](https://cds.cern.ch/record/2135810?ln=en) - CERN postgraduate lectures for the inverted CERN School of Computing 
+
+## Seminars
+These slides get slightly appended/updated for each seminar in-turn:
+
+* [SoLid Seminar](https://docs.google.com/presentation/d/1tlrCHkvQ7dmh4VeXptU74msMW5f7Nsg-cDJwPxF1fFY/edit?usp=sharing)
+
