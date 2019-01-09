@@ -20,6 +20,7 @@ These pages link together various articles that document side projects (includin
 ## Miscellaneous 
 * [Linkedin](https://www.linkedin.com/in/dan-saunders1)
 * [CV](https://docs.google.com/presentation/d/1DKIxbgXLdX_WUn52feFf18cfIm6UupInGGKTr4SV7FA/edit?usp=sharing)
+* [PhD Thesis](http://solid-experiment.org/sites/default/files/pdf/thesis/Thesis_final.pdf)
 
 # Talks (conferences, lectures, seminars etc)
 These are links to recordings and slides of various talks and short courses I've given. 
