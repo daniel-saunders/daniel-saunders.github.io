@@ -13,7 +13,7 @@ These are links to recordings and slides of various talks and short courses I've
 * IEEE NSS-MIC 2018, Sydney, parallel session: [SoLid Readout System Deployment](https://docs.google.com/presentation/d/1qcqOHY9K6Ar2kKZ57ezKluTK-WNwd6h4w7HuhNr2ueQ/edit?usp=sharing)
 
 * ICHEP 2016, Chicago, parallel session: [Search for Oscillations using a Li-6 Detector](https://indico.cern.ch/event/432527/contributions/1071381/attachments/1320565/1980237/DS_ICHEP2016_final.pdf)
-    * *First public presentation initial ML results.*
+    * *First public presentation of initial ML results.*
 
 ## Lectures
 * [Imperial College Undergraduate Statistics Guest Lecture](https://docs.google.com/presentation/d/15a8Mkx4_-7MpbTkr19Lzwt1GvY1E_9tTFbj0JF_gars/edit?usp=sharing)
