@@ -39,5 +39,5 @@ These slides get slightly appended/updated for each seminar in-turn:
 
 ## Miscellaneous 
 * [Linkedin](https://www.linkedin.com/in/dan-saunders1)
-* [CV](https://docs.google.com/presentation/d/1DKIxbgXLdX_WUn52feFf18cfIm6UupInGGKTr4SV7FA/edit?usp=sharing)
+* [CV](https://docs.google.com/presentation/d/1iZIS_xMB8x9g1Ssl9PkKczQFYJDElCwMh0Sbms5sIxE/edit?usp=sharing)
 * [PhD Thesis](http://solid-experiment.org/sites/default/files/pdf/thesis/Thesis_final.pdf)
